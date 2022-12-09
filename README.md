@@ -1,10 +1,11 @@
-'-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-'
+<details>
+  <summary>Goals</summary>
+  
+<p>-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-</br>
+-:- -:- low-code solutions for local start-ups -:- -:- </br>
+   -~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-</p>
 
-Supporting start-ups 
-
-with low-code solutions
-
-'-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-'
+</details>
 
 <!--- 
 <picture>
@@ -13,12 +14,13 @@ with low-code solutions
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 --->
-
-## Stuff and Things (About Me)
-
+<details>
+<summary>Stuff and Things (About Me)</summary>
 
 |   Stuff  | n' | Things |
 |---------:|---:|--------|
 | 1st Stuff|   1| Thing1 |
 | 2nd Stuff|   2| Thing2 |
 | 3rd Stuff|   3| Thing3 |
+
+</details>
